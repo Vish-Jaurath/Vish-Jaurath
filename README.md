@@ -2,7 +2,7 @@
 
 **Data Scientist @ Aditya Birla Capital** with 6+ years of experience building end-to-end machine learning solutions — from data analysis and feature engineering to model development and deployment. Skilled in Python, SQL, and predictive modeling, with hands-on experience in NLP and business-focused analytics.
 
-Currently exploring **Generative AI**, working on **LLM-based applications and RAG pipelines**, and deploying models using **FastAPI**. Passionate about building **scalable, production-ready ML systems** that solve real-world business problems, especially in fintech and customer analytics.
+Currently exploring **Generative AI**, learning and experimenting with **LLM-based applications and RAG pipelines**, and familiarizing myself with **model deployment using FastAPI**. Passionate about applying machine learning to solve real-world business problems, especially in fintech and customer analytics.
 
 ---
 
