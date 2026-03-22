@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Vishakha Jaurath
 
-<!--
-**Vish-Jaurath/Vish-Jaurath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist @ Aditya Birla Capital** with 6+ years of experience building end-to-end machine learning solutions — from data analysis and feature engineering to model development and deployment. Skilled in Python, SQL, and predictive modeling, with hands-on experience in NLP and business-focused analytics.
 
-Here are some ideas to get you started:
+Currently exploring **Generative AI**, working on **LLM-based applications and RAG pipelines**, and deploying models using **FastAPI**. Passionate about building **scalable, production-ready ML systems** that solve real-world business problems, especially in fintech and customer analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+**Core Skills:** Predictive Modeling, Machine Learning, NLP, Statistical Analysis, Generative AI (LLMs), RAG Agents, Deep Learning  
+**Programming:** Python, SQL  
+**Machine Learning & Deep Learning:** Regression, Classification, Clustering, Ensemble Methods (Bagging, Boosting), ANN, CNN, TensorFlow, PyTorch  
+**Data Analysis & Visualization:** Pandas, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn, Power BI, Looker, OBIEE, Excel  
+**Frameworks & APIs:** FastAPI (Model Deployment), Flask, REST API Development  
+**Cloud & Data Platforms:** Azure Data Factory, Azure Synapse, Vertex AI (GCP), BigQuery, Snowflake  
+**Tools & Others:** GitHub, VS Code, Postman, SSMS, Octoparse  
+
+---
+
+## 📂 Explore My Work
+This repo contains sample projects, analytics work, and machine learning experiments demonstrating my workflow, from data analysis and feature engineering to building predictive models.
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/vishakhajaurath/)
+- Email: jaurathvishu18@gmail.com
